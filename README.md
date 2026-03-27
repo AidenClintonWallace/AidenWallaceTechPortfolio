@@ -1,6 +1,9 @@
 
 # Hi, I'm Aiden Wallace 👋
 
+![WhatsApp Image 2026-03-27 at 19 58 31](https://github.com/user-attachments/assets/bc7994a8-07f8-414e-8a28-866b0b11c775)
+
+
 🎓 Applications Development Student at Cape Peninsula University of Technology  
 💻 Passionate about Software Development and Problem Solving  
 🎮 Gamer | 📈 Learning About Financial Markets | 🤝 Enjoy working with passionate and driven individuals
