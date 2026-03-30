@@ -1,4 +1,3 @@
-
 # Hi, I'm Aiden Wallace 👋
 
 🎓 Applications Development Student at Cape Peninsula University of Technology  
@@ -58,43 +57,6 @@ I'm currently learning:
 - Test Driven Development (TDD)
 - Clean Architecture
 - Advanced Git workflows
-
----
-
-# 💻 Projects
-
-### 🎓 Student Enrolment System (Java)
-
-- Implemented **DAO layer for database communication**
-- Contributed to **client/server socket programming**
-- Assisted with debugging and testing
-
----
-
-### 🏠 Student Accommodation Finder App
-
-- Worked in a **team of 6 developers**
-- Served as **Tester**
-- Implemented **JUnit 5 and Mockito unit testing**
-- Assisted with **GUI design and database integration**
-
----
-
-### 🧠 Children's Times Table App (Kotlin)
-
-- Built an educational Android application
-- Designed UI with **Jetpack Compose**
-- Interactive learning for multiplication tables
-
----
-
-### 🔐 Login System Projects
-
-Created multiple login systems using:
-
-- ROOM database
-- SQL database
-- HTML/CSS/JavaScript frontend
 
 ---
 
