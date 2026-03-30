@@ -4,6 +4,9 @@
 💻 Passionate about Software Development and Problem Solving  
 🎮 Gamer | 📈 Learning About Financial Markets | 🤝 Enjoy working with passionate and driven individuals
 
+Heres a little sumary about myself :)
+https://youtu.be/z_LdMEFzllM
+
 ---
 
 # 🚀 About Me
