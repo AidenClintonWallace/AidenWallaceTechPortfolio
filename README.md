@@ -63,7 +63,7 @@ I'm currently learning:
 
 ---
 <iframe width="560" height="315"
-src="https://youtu.be/z_LdMEFzllM"
+src="[https://youtu.be/z_LdMEFzllM](https://www.youtube.com/embed/https://youtu.be/z_LdMEFzllM)"
 title="Video"
 frameborder="0" allowfullscreen>
 </iframe>
