@@ -62,12 +62,6 @@ I'm currently learning:
 - Advanced Git workflows
 
 ---
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/z_LdMEFzllM"
-title="Video"
-frameborder="0" allowfullscreen>
-</iframe>
----
 
 # 📫 Contact Me
 
