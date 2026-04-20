@@ -60,6 +60,8 @@ I'm currently learning:
 
 ---
 
+# Mock Interview
+
 <iframe width="560" height="315" src="https://drive.google.com/file/d/1Jti1pI9rXlCVzK1pGJgSIVjjLX7YuaM5/preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
@@ -67,7 +69,10 @@ I'm currently learning:
 
 Learning Markdown to create a portfoilio in GitHub Pages was quite a smooth experience.
 It only took a few minutes of research to get a grip of the language as there are no complex syntax or anything that makes it difficult. 
+
 Within a few minutes i was able to deploy this page on guthub and i find it quite amazing how people can use this as a tool to build a portfolio for themselves.
+
+I still have a lot to learn about myself and there is a lot of room for me to grow, not only in the tech world but also when it comes to personal things, behaviours and habits.
 
 ---
 
