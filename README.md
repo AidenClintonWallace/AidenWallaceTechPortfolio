@@ -69,8 +69,8 @@ I'm currently learning:
 
 This is just a fun little project I am putting together to learn full stack development. I am learning React so i have deeloped a simple UI with routing and API integration. The backend i have developed using spring boot where I call an external API to retrieve some data. I am working on this project in my spare time to learn new concepts and and become a better overall developer.
 
-<img width="400" height="100" alt="funhub" src="https://github.com/user-attachments/assets/2b01477b-d0b9-47d7-918d-dc5193d4fa2e" />
-<img width="400" height="100" alt="image" src="https://github.com/user-attachments/assets/1f647b12-9f26-418b-9b40-6de43fcbc2d4" />
+<img width="500" height="250" alt="funhub" src="https://github.com/user-attachments/assets/2b01477b-d0b9-47d7-918d-dc5193d4fa2e" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/1f647b12-9f26-418b-9b40-6de43fcbc2d4" />
 
 
 ---
