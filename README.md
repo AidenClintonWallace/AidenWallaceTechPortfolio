@@ -63,9 +63,9 @@ I'm currently learning:
 
 ---
 
-# Projects which I am currently working on
+# Projects
 
-### FunHub
+### FunHub (in progress)
 
 This is just a fun little project I am putting together to learn full stack development. I am learning React so i have developed a simple UI with routing and API integration. The backend i have developed using spring boot where I call an external API to retrieve some data. I am working on this project in my spare time to learn new concepts and and become a better overall developer.
 
