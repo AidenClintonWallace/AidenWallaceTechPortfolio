@@ -4,6 +4,8 @@ Applications Development Student at Cape Peninsula University of Technology
 Passionate about Software Development and Problem Solving  
 🎮 Gamer | 📈 Learning About Financial Markets | 🤝 Enjoy working with passionate and driven individuals
 
+[View Resume](./AidenWallaceCV.pdf)
+
 ---
 
 # About Me
